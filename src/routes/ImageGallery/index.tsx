@@ -13,10 +13,10 @@ const ImageGallery = () => {
       swipeable
       infiniteLoop
     >
-      <Image src="public/imagenes/1.jpeg" />
-      <Image src="public/imagenes/2.jpeg" />
-      <Image src="public/imagenes/3.jpeg" />
-      <Image src="public/imagenes/4.jpeg" />
+      <Image src="/imagenes/1.jpeg" />
+      <Image src="/imagenes/2.jpeg" />
+      <Image src="/imagenes/3.jpeg" />
+      <Image src="/imagenes/4.jpeg" />
     </Carousel>
   );
 };
